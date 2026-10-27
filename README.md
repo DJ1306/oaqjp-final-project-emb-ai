@@ -1,4 +1,4 @@
-# Emotion Detector
+# Final Project
 
 An AI-powered web application that analyzes textual input to detect emotional sentiment using Watson NLP Emotion Predict library. The application extracts fine-grained emotion scores for anger, disgust, fear, joy, and sadness, identifies the dominant emotion, and provides both a modular Python package and an interactive web interface powered by Flask.
 
